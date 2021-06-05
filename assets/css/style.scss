@@ -5,7 +5,7 @@
 
 body {
   background-color: #222;
-  padding:10px;
+  padding:30px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#fce64c;
   font-weight:400;
@@ -39,4 +39,8 @@ kbd {
 
 .wrapper {
 	width:1024px;
+}
+
+section {
+   width: 700px;
 }
