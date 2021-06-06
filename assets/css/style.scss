@@ -4,27 +4,31 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #222;
+  background-color: #323232;
   padding:30px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#fce64c;
+  color:#F5793B;
   font-weight:400;
 }
 
 h2 {
-	color: #fce64c;
+	color: #F5793B;
+}
+
+h3 {
+    color: #F5793B;
 }
 
 pre {
   padding:8px 15px;
-  background: #222;
+  background: #323232;
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
 }
 
 kbd {
-  background-color: #222;
+  background-color: #323232;
   border: 1px solid #c6cbd1;
   border-bottom-color: #959da5;
   border-radius: 3px;
