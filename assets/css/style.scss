@@ -67,5 +67,8 @@ header {
 	color: #111;
 	background: rgb(104,194,255);
 	background: linear-gradient(0deg, rgba(104,194,255,1) 0%, rgba(17,112,175,1) 100%);
-	radius: 5px;
+	text-shadow: 
+      -1px -1px 1px #111, 
+      2px 2px 1px #363636;
+	radius: 20px;
  }
