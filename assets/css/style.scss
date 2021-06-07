@@ -59,25 +59,3 @@ header {
     padding: 0;
   }
   
-.menu {
-   list-style:none;
-   padding:0.5em 0;
-   margin:0;
-   background-color:#2a0042;
-}
-
-.menuli {
-   padding:0.5em 1em 0.5em 3em;
-   font-size:0.95em;
-   font-weight:regular;
-   transition:all 0.15s linear;
-   cursor:pointer;
-   
-}
-
-.menuli a {
-   font-color:#7F6FEA;
-}
-
-.menuli hover{
-   background-color:#44006b;
