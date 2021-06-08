@@ -20,6 +20,16 @@ h3 {
     color: #FFF;
 }
 
+a {
+  color:#FFF;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#FFF;
+  font-weight: bold;
+}
+
 pre {
   padding:8px 15px;
   background: #323232;
